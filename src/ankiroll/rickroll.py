@@ -20,7 +20,7 @@ class AnkiRoll:
         if (context != "reviewAnswer") or (random() > self._config["local"]["probability"]):
             return html
 
-        addon_package = self._mw.addonManager.addonFromModule(ADDON.MODULE)
+        addon_package = self._mw.addonManager.addonFromModule(__name__)
         file_path = f"/_addons/{addon_package}/{self.RICKROLL_FILE}"
 
         return f"""

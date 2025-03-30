@@ -18,4 +18,4 @@ ankiroll = AnkiRoll(main_window, config)
 main_window._ankiroll = ankiroll  # type: ignore[attr-defined]
 initialize_views(ankiroll)
 
-main_window.addonManager.setWebExports(ADDON.MODULE, r"assets/.*gif")
+main_window.addonManager.setWebExports(__name__, r"assets/.*gif")
