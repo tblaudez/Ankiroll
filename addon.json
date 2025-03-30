@@ -1,0 +1,14 @@
+{
+  "display_name": "Ankiroll",
+  "module_name": "ankiroll",
+  "repo_name": "Ankiroll",
+  "ankiweb_id": "",
+  "author": "Tristan Blaudez",
+  "contact": "https://github.com/tblaudez",
+  "homepage": "https://github.com/marvinruder/ankitty",
+  "copyright_start": 2025,
+  "tags": "reviewer gamification memes",
+  "conflicts": [],
+  "targets": ["anki21"],
+  "min_anki_version": "2.1.49"
+}
