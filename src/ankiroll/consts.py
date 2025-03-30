@@ -15,7 +15,7 @@ class ADDON:
 
     NAME = "Ankiroll"
     MODULE = "ankiroll"
-    ID = ""
+    ID = "597778000"
     VERSION = __version__
     LICENSE = "GNU AGPLv3"
     AUTHORS = (

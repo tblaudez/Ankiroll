@@ -61,7 +61,7 @@ For more information on the build process please refer to [`aab`'s documentation
 
 ### License and Credits
 
-Ankitty is free and open-source software. The add-on code that runs within Anki is released under the GNU AGPLv3 license, extended by a number of additional terms. For more information please see the [LICENSE](https://github.com/marvinruder/ankitty/blob/main/LICENSE) file that accompanied this program.
+Ankiroll is free and open-source software. The add-on code that runs within Anki is released under the GNU AGPLv3 license, extended by a number of additional terms. For more information please see the [LICENSE](https://github.com/marvinruder/ankitty/blob/main/LICENSE) file that accompanied this program.
 
 Please note that this program uses the [Libaddon](https://github.com/glutanimate/anki-libaddon/) library which comes with [its own additional terms extending the GNU AGPLv3 license](https://github.com/marvinruder/ankitty/blob/main/src/puppy_reinforcement/libaddon/LICENSE). You may only copy, distribute, or modify the present compilation of this program with Libaddon under the combined licensing terms specified by both licenses.
 
