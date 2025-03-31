@@ -31,13 +31,13 @@ class AnkiRoll:
                     Never Gonna Give You Up !
                 </button>
             </div>
-            <div id="old-html" style="visibility: hidden;">
+            <div id="old-html" style="display: none;">
             {html}
             </div>
             <script>
                 document.getElementById("show-real-answer").onclick = function() {{
                     document.getElementById("new-html").remove();
-                    document.getElementById("old-html").style.visibility = "visible";
+                    document.getElementById("old-html").style.display = "block";
                 }};
             </script>
             """
